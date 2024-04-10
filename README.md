@@ -6,6 +6,8 @@ The FTP locations of relevant projects can be used in downstream processing.
 
 ![Model](pride_mine.png)
 
+## Example of project description summary
+![Model](example.png)
 
 ## To run
 - Obtain an Open AI Key for line 77 of get_summaries.py
