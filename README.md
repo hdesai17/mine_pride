@@ -1,3 +1,3 @@
 # pride_mine
 
-![Model](Flowchart.jpeg)
+![Model](Flowchart.jpg)
