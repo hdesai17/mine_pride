@@ -9,4 +9,4 @@ The FTP locations of relevant projects can be used in downstream processing.
 
 ## To run
 - Obtain an Open AI Key
-- python langchain.py "keywords"
+- python get_summaries.py "keywords"
