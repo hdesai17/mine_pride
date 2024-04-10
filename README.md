@@ -14,7 +14,6 @@ The FTP locations of relevant projects can be used in downstream processing.
 
   ```
   python get_summaries.py "keywords"
-
   ```
 
 ## Output
