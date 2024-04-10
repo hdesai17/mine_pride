@@ -8,5 +8,8 @@ The FTP locations of relevant projects can be used in downstream processing.
 
 
 ## To run
-- Obtain an Open AI Key
+- Obtain an Open AI Key for line 77 of get_summaries.py
 - python get_summaries.py "keywords"
+
+## Output
+Project tiles, accessions, and summaries are printed.
