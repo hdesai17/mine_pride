@@ -1,4 +1,4 @@
-# pride_mine
+# Mine PRIDE
 
 Mine the PRIDE repository for projects matching keyword(s). \
 Output descriptions are input for LLM to generate concise summaries of information relevant for data searching. \
