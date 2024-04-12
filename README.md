@@ -7,7 +7,7 @@ The FTP locations of relevant projects can be used in downstream processing.
 ![Model](pipeline.png)
 
 ## Example of project description summary
-![Model](example.png)
+![Model](example1.png)
 
 ## To run
 - Obtain an Open AI Key for line 77 of get_summaries.py
