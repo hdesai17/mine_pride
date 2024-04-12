@@ -18,4 +18,4 @@ The FTP locations of relevant projects can be used in downstream processing.
   ```
 
 ## Output
-Project tiles, accessions, and summaries are printed.
+Matching project summaries are printed, and matching project details are stored in output.jsonl
