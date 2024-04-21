@@ -4,7 +4,7 @@ Mine the PRIDE repository for projects matching keyword(s). \
 Output descriptions are input for LLM to generate concise summaries of information relevant for data searching. \
 The FTP locations of relevant projects can be used in downstream processing.
 
-![Model](pipeline.png)
+![Model](pipeline1.png)
 
 ## Example of project description summary
 ![Model](example1.png)
